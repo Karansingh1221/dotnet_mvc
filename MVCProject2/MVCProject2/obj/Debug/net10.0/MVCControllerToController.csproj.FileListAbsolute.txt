@@ -1,0 +1,8 @@
+C:\Users\Karan\Desktop\MVC\MVCProject2\MVCProject2\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Karan\Desktop\MVC\MVCProject2\MVCProject2\obj\Debug\net10.0\MVCControllerToController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\MVC\MVCProject2\MVCProject2\obj\Debug\net10.0\MVCControllerToController.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\MVC\MVCProject2\MVCProject2\obj\Debug\net10.0\MVCControllerToController.AssemblyInfo.cs
+C:\Users\Karan\Desktop\MVC\MVCProject2\MVCProject2\obj\Debug\net10.0\MVCControllerToController.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\MVC\MVCProject2\MVCProject2\obj\Debug\net10.0\MVCControllerToController.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karan\Desktop\MVC\MVCProject2\MVCProject2\obj\Debug\net10.0\MVCControllerToController.RazorAssemblyInfo.cache
+C:\Users\Karan\Desktop\MVC\MVCProject2\MVCProject2\obj\Debug\net10.0\MVCControllerToController.RazorAssemblyInfo.cs

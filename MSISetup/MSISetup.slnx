@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MSISetup/MSISetup.csproj" />
+  <Project Path="Setup1/Setup1.vdproj" Type="Installer" />
+</Solution>
