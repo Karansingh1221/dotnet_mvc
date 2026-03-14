@@ -1,0 +1,14 @@
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\bin\Debug\net10.0\MSISetup.exe
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\bin\Debug\net10.0\MSISetup.deps.json
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\bin\Debug\net10.0\MSISetup.runtimeconfig.json
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\bin\Debug\net10.0\MSISetup.dll
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\bin\Debug\net10.0\MSISetup.pdb
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.AssemblyInfo.cs
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.dll
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\obj\Debug\net10.0\refint\MSISetup.dll
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.pdb
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\obj\Debug\net10.0\MSISetup.genruntimeconfig.cache
+C:\Users\Karan\Desktop\MVC\MSISetup\MSISetup\obj\Debug\net10.0\ref\MSISetup.dll
